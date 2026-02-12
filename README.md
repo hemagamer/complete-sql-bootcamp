@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/25265337/README.md)
+
 # The Complete SQL Bootcamp: Go from Zero to Hero
 
 ![Course Badge](https://img.shields.io/badge/SQL-PostgreSQL-blue)
